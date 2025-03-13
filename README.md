@@ -42,8 +42,21 @@ cd Weather-Forecast-App
 - Click **Run ▶** in Android Studio.
 
 ## 📸 Screenshots
-![Home Screen](https://via.placeholder.com/400x800)  
-![Weather Forecast](https://via.placeholder.com/400x800)
+
+### 🏠 Home & Navigation  
+<p align="center">
+  <img src="screenshots/homepage.jpg" width="30%" alt="Homepage">
+  <img src="screenshots/search.jpg" width="30%" alt="Search">
+  <img src="screenshots/sidedrawer.jpg" width="30%" alt="Side Drawer">
+</p>
+
+### ⚙️ Features & Settings  
+<p align="center">
+  <img src="screenshots/favorites.jpg" width="30%" alt="Favorites">
+  <img src="screenshots/settings.jpg" width="30%" alt="Settings">
+  <img src="screenshots/aboutus.jpg" width="30%" alt="About Us">
+</p>
+
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
